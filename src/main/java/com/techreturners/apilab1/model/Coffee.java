@@ -10,7 +10,7 @@ public class Coffee {
     public long getId() {
         return id;
     }
-    public String getname() {
+    public String getName() {
         return name;
     }
 }
